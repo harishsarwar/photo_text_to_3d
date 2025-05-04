@@ -9,18 +9,8 @@ A simple prototype that converts photos or text descriptions to basic 3D models 
 - Output in standard 3D formats (.obj or .stl)
 - Simple 3D visualization
 
-## Installation
 
-1. Clone this repository:
-```
-git clone https://github.com/yourusername/photo_text_to_3d.git
-cd photo_text_to_3d
-```
 
-2. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -69,6 +59,3 @@ python main.py --text "A small toy car" --output output/model --format stl --vis
 - Expand text-to-3D capabilities with more object types and properties
 - Add texture support for more realistic models
 
-## License
-
-MIT License
